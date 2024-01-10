@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "quartoCourseBlog"
+  title: "Riesgo de crédito"
   navbar:
     right:
       - about.qmd
