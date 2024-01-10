@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Riesgo de crédito"
+  title: "Estudio de Microcrédito"
   navbar:
     right:
       - about.qmd
